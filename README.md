@@ -22,27 +22,34 @@ Install the required dependencies:
 
 
 pip install mysql-connector-python prettytable
-Usage
+# Usage
 Run the main script:
 
 
 python main.py
 Follow the on-screen prompts to log in and choose the desired action.
 
-Features
+# Features
 Create user profiles
+
 Create tables
+
 Insert data into tables
+
 Update data in tables
+
 Update table structure
+
 Drop tables
+
 Truncate tables
+
 View table data
 
 
-Contributing
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-Acknowledgements
+# Acknowledgements
 PrettyTable - Used for displaying table data in a formatted way.
 mysql-connector-python - Python connector for MySQL.
